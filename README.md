@@ -1,6 +1,8 @@
-# datadownloader
+# Bluetooth low energy terminal uygulaması
 
-A new Flutter project.
+Cihaza bağlanıp veri okuyup veri gönderebilen bir uygulama
+
+
 
 ## Giriş ekranı
 
